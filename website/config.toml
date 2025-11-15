@@ -1,0 +1,131 @@
+theme = 'tailbliss-main'
+baseURL = ""
+title = "Crobotics #7201"
+
+languageCode = "en-us"
+defaultContentLanguage = 'hr'
+defaultContentLanguageInSubdir = true
+
+enableEmoji = true
+enableGitInfo = false
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 9
+darkmode_js = ["assets/js/darkmode.js"]
+enableInlineShortcodes = true
+
+
+[languages]
+    [languages.en]
+        description = "Official Crobotics #7201 website"
+        fap = "Fast and productive"
+        wassup = "What's new"
+        shortDesc = "A small team of high school students aiming to compete at a high level with a tight budget."
+
+        missionTitle = "Our mission"
+        ourGoal1 = "We want to show other people who are wanting to compete that it is not about money and resources, but about passion, hard work, and determination. With the right mindset and approach, anyone can succeed, regardless of their financial or material circumstances."
+        ourGoal2 = "Despite facing competition from teams with much more resources, we as a team have been able to achieve great success over several years. This demonstrates that any individual or team can overcome obstacles and come out with a great result. We aim to encourage others to have faith in themselves and their abilities, and to persist in pursuit of their goals, regardless of any perceived disadvantages."
+
+        ourJourneyTitle = "Our Journey: From Idea to Reality"
+        ourJourney = "In 2017, Borna Massari, a student of Andrija Mohorovicica Rijeka high school, with the help of prof. Patricija Nikolaus, prof. Goran Boneta and six other students founded the Crobotics team. Ever since its foundation, our team has welcomed many students. From 2018 until now we have participated in various competitions and achieved excellent results. The FRC competition held in New York in 2018 has brought us 2 prizes: The 2018 Rookie Inspiration Award and the 2018 Highest Rookie Seed Award. In the year 2020, the competition was held in Istanbul where the team placed 22nd in Europe. In the year 2023. we visited Istanbul again and we placed 5th which is our best rank so far. We’re at the start of our journey, and we’d love for you to follow along."
+
+        investorsTitle = "Backed by world-renowned investors"
+        investorsText = "Of course, participating in competitions costs a lot of money, from buying materials to registration fees and travel expenses. Since our team is consisted of high school students and two mentors, collecting resources needed for paying everything was a tough job. We couldn't have done anything without our renowned investors: TSI d.o.o, LNG Hrvatska d.o.o., Infobip d.o.o., Span d.o.o, Primorsko-goranska županija, Grad Rijeka and other."
+        investorsLink = "Meet our investors"
+
+        aboutText = "About"
+        blogText = "Blog"
+        readMoreText = "Read more about our adventures"
+        newsText = "News"
+        donateText = "Donate"
+        contactText = "Contact"
+        postsText = "Posts"
+        catText = "Categories"
+
+        copyrightText = "All rights reserved."
+        plug1 = "This site was developed by"
+        plug2 = "using"
+        plug3 = "template as the starting ground."
+
+        lang = "Hrvatski"
+
+    [languages.hr]
+        description = "Službena stranica Crobotics #7201"
+        fap = "Učinkoviti i inovativni"
+        wassup = "Novosti"
+        shortDesc = "Mali tim srednjoškolaca s ciljem natjecanja na visokoj razini s ograničenim budžetom."
+
+        missionTitle = "Naš cilj"
+        ourGoal1 = "Želimo pokazati ljudima koji se također natječu da se ne radi o novcu i resursima, već o strasti, napornom radu i odlučnosti.  Uz ispravan način razmišljanja i pristup, svatko može uspjeti, bez obzira na svoje financijske ili materijalne prilike. "
+        ourGoal2 = "Unatoč konkurenciji s ​​puno više resursa, mi smo, kao tim, uspjeli postići veliki uspjeh tijekom nekoliko godina. To pokazuje da bilo koji pojedinac ili tim mogu prevladati prepreke i postići sjajne rezultate. Cilj nam je potaknuti druge da vjeruju u sebe i svoje sposobnosti te da ustraju u ostvarivanju svojih ciljeva, bez obzira na bilo kakve uočene nedostatke. "
+
+        ourJourneyTitle = "Naše putovanje: od ideje do stvarnosti"
+        ourJourney = "2017.  godine Borna Massari, učenik Gimnazije Andrije Mohorovičića Rijeka, uz pomoć prof. Patricije Nikolaus, prof. Gorana Bonete i još šest učenika, osnovao je Crobotics tim. Od svog osnutka naš tim je primio mnoge učenike. Od 2018. do sada sudjelovali smo na raznim natjecanjima i postizali odlične rezultate. FRC natjecanje održano u New Yorku 2018. donijelo nam je 2 nagrade: The 2018 Rookie Inspiration Award i the 2018 Highest Rookie Seed Award. 2020. godine natjecanje je održano u Istanbulu gdje je ekipa zauzela 22. mjesto u Europi. Godine 2023. tim je opet posjetio Istanbul gdje smo postigli visoko 5. mjesto što je naš najveći usjpjeh dosad. Ovo je tek početak našeg putavanja koje možete pratiti na našem blogu."
+
+        investorsTitle = "Uz podršku svjetski poznatih investitora"
+        investorsText = "Naravno, sudjelovanje na natjecanjima košta puno novca, od kupnje materijala do kotizacija i putnih troškova. Budući da naš tim čine srednjoškolci i dva mentora, prikupljanje sredstava potrebnih za plaćanje svega je bio težak posao. Ništa ne bismo mogli bez naših renomiranih investitora: TSI d.o.o, LNG Hrvatska d.o.o., Infobip d.o.o., Span d.o.o, Primorsko-goranska županija, Grad Rijeka i ostalih."
+        investorsLink = "Upoznajte naše donatore"
+
+        aboutText = "O nama"
+        
+        newsText = "Novosti"
+        contactText = "Kontakti"
+        postsText = "Objave"
+        donateText = "Doniraj"
+        catText = "Kategorije"
+        blogText = "Blog"
+        readMoreText = "Pročitajte više na našem blogu"
+
+        copyrightText = "Sva prava pridržana."
+        plug1 = "Ovu stranicu razvio je"
+        plug2 = "koristeći"
+        plug3 = "predložak kao polaznu osnovu."
+
+        lang = "English"
+
+
+[params]
+author = "Crobotics #7201"
+authorimage = "../assets/images/global/crobotics_logo.png"
+og_image = "/images/crobotics_logo.png"
+sitename = "Crobotics #7201"
+description = "Official Crobotics #7201 website"
+
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+category = "Categories"
+tag = "Tags"
+
+[privacy]
+[privacy.disqus]
+disable = false
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = false
+respectDoNotTrack = false
+useSessionStorage = false
+[privacy.instagram]
+disable = false
+simple = false
+[privacy.twitter]
+disable = false
+enableDNT = false
+simple = false
+[privacy.vimeo]
+disable = false
+enableDNT = false
+simple = false
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.105.0"
+    max = "0.105.0"

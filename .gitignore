@@ -1,0 +1,5 @@
+website/public/
+website/node_modules
+website/themes/tailbliss/yarn.lock
+website/themes/tailbliss/package-lock.json
+website/themes/tailbliss/node_modules/

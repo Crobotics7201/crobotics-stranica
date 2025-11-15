@@ -1,0 +1,34 @@
+kind: pipeline
+type: docker
+name: default
+trigger:
+  branch:
+  - main
+
+steps:
+  - name: Install Node packages
+    image: dockette/nodejs
+    commands:
+     - cd ./website && npm install
+
+  - name: Download and run hugo 
+    image: ubuntu
+    commands:
+    - apt-get update
+    - apt-get install wget git -y
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.105.0/hugo_0.105.0_linux-amd64.deb
+    - apt install ./hugo_0.105.0_linux-amd64.deb -y
+    - hugo -s ./website
+
+  - name: Copy files to the server
+    image: drillster/drone-rsync
+    settings:
+      hosts: ["192.168.0.199"]
+      user: "drone"
+      key: 
+        from_secret: ssh_key
+      port: 22
+      target: /mnt/HardDrive/crobotics-website/public
+      source: ./website/public/
+      recursive: true
+      delete: true
