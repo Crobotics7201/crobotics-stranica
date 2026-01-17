@@ -36,13 +36,7 @@ Svaki robot počinje s osam kuglica i pokušava ih ubaciti u središte svog tima
 
 
 Natjecanje je podijeljeno u više smjena, gdje se središta aktiviraju i deaktiviraju, što zahtjeva taktiku i brže odluke. Zadnjih 30 sekundi matcha, robot i sva središta su aktivna, i tada se boduju i završni rezultati. 
-<iframe width="650" height="365"
-    src="https://www.youtube.com/watch?v=_fybREErgyM "
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
+<iframe width="650" height="365" src="https://www.youtube.com/embed/_fybREErgyM?si=1RdSYtt1yXm5n6s-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Za naš tim ovo natjecanje predstavlja više od same igre, ono je prilika za razvoj vještina, kreativnog razmišljanja i timskog rada. S velikim uzbuđenjem očekujemo priliku da u Chicagu predstavimo našeg robota i rezultate zajedničkog truda. 
 
