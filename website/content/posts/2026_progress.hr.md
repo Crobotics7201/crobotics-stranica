@@ -11,6 +11,7 @@ authorimage: ../assets/images/global/crobotics_logo.png
 ---
 
 <!--categories: blog-->
+# Napredak na robotu
 
 Dok se naš tim intenzivno priprema za FIRST Robotics Competition 2026 u Chicagu, rad na robotu ulazi u sve ozbiljniju fazu.  
 
