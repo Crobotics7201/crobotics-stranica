@@ -28,10 +28,12 @@ Last week, we also received the main plates made of thick aluminum, precisely la
 
 We have also begun planning and building the intake, the part of the robot through which balls enter the system before being launched.
 
-### Intake
-![Intake](/images/intake.jpg)
+
 
 To properly test the robot, we built game elements including the bump and the hub. These elements were made from an old wardrobe and tables, which only proves our resourcefulness, creativity, and ability to work with what is available to us.
+
+### Game hub
+![Hub](/images/hub.jpg)
 
 At the same time, we assembled the power distribution board with electronics, giving the robot its own “electronic core.”
 

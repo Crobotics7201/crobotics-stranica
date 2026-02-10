@@ -18,7 +18,6 @@ Dok se naš tim intenzivno priprema za FIRST Robotics Competition 2026 u Chicagu
  
 
 U proteklim danima naši robotičari fokusirali su se na razvoj shootera, ključnog mehanizma koji će služiti za ispucavanje lopti tijekom igre. 
-![Shooter](/images/shooter.jpg)
 
 Shooter se sastoji od dvije ploče koje su napravljene po uputama KitBota. KitBot je svestran i početnicima prilagođen robotski komplet koji se nalazi u Kickoff paketu natjecanja FIRST Robotics Competition. Pomoću njega svi prijavljeni timovi mogu pristupiti uputama za izradu, CAD datotekama, vodičima za programiranje i savjetima za nadogradnju kako bi svoj tim pripremili za natjecanje. 
 ### Prototip shootera
@@ -32,10 +31,12 @@ Prošloga tjedna stigle su nam i glavne ploče od debelog aluminija koje su prec
 
 
 Također krenuli smo s planiranjem i izradom intakea, dijela robota kroz koji će lopte ulaziti u sustav prije nego što budu ispucane. 
-### Intake
-![Intake](/images/intake.jpg)
+
 
 Kako bi smo mogli kvalitetno testirati robota napravili smo elemente iz igre uključujući bump i hub. Ti elementi napravljeni su od starog ormara i stolova što samo dokazuje našu snalažljivost i kreativnost te sposobnost rada s onime što nam je omogućeno. 
+
+### Hub
+![Hub](/images/hub.jpg)
 
 Paralelno s time, montirali smo i razvodnu ploču s elektronikom, čime je robot dobio i svoju ”elektroničku jezgru”. 
 
