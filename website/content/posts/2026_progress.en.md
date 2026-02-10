@@ -23,11 +23,13 @@ The shooter consists of two plates made according to the KitBot instructions. Ki
 
 Last week, we also received the main plates made of thick aluminum, precisely laser-cut. The plates arrived from the Faculty of Engineering in Rijeka, which supports our team to ensure that the robot and its components are as high-quality and accurate as possible.
 
-Meeting at RITEH
+### Meeting at Riteh
+![Meeting at Riteh](/images/riteh.jpg)
 
 We have also begun planning and building the intake, the part of the robot through which balls enter the system before being launched.
 
-Intake
+### Intake
+![Intake](/images/intake.jpg)
 
 To properly test the robot, we built game elements including the bump and the hub. These elements were made from an old wardrobe and tables, which only proves our resourcefulness, creativity, and ability to work with what is available to us.
 
