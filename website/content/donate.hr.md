@@ -11,12 +11,12 @@ description: Donirajte
 
 Najbolji način za donirati je izravno na naš IBAN.
 <br></br>
-<strong>OIB:</strong> 28402125763
+<strong>Broj računa:</strong> HR 7424020061800008005
 
-<strong>IBAN:</strong> HR6624840081101759305
+<strong>Primatelj:</strong> PRIMORSKO-GORANSKA ŽUPANIJA
 
-<strong>Banka:</strong> RAIFFEISEN BANK
+<strong>Banke:</strong> ERSTE I STEIERMERKISCHE BANK
 
-<strong>Adresa:</strong> Frana Kurelca 1, 51000 Rijeka
+<strong>OBAVEZAN POZIV NA BROJ:</strong> HR 64 17458-663120
 
-<strong>Opis uplate:</strong> Donacija za Crobotics team
+<strong>Opis uplate:</strong> GAM-DONACIJA CROBOTICS
