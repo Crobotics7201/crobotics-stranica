@@ -3,7 +3,7 @@ title: "Naš tim na Kanalu Ri"
 date: 2026-02-11T12:10:36+08:00
 draft: false
 language: hr
-featured_image: ../assets/images/pages/sastanak.jpg
+featured_image: ../assets/images/pages/kanalri.jpg
 summary: Dana, 9. veljače posjetila nas je ekipa s Kanala Ri koja je snimala reportažu o našem robotičarskom timu i pripremama za First Robotics Competition 2026. u Chicagu.
 author: Crobotics
 authorimage: ../assets/images/global/crobotics_logo.png
