@@ -2,7 +2,7 @@
 title: "Our Team on Kanal Ri"
 date: 2026-02-11T12:10:36+08:00
 draft: false
-language: hr
+language: en
 featured_image: ../assets/images/pages/kanalri.jpg
 summary: On February 9, we were visited by a crew from Kanal Ri who filmed a report about our robotics team and our preparations for the First Robotics Competition 2026 in Chicago.
 author: Crobotics
