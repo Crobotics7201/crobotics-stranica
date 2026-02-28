@@ -17,6 +17,6 @@ Najbolji način za donirati je izravno na naš IBAN.
 
 <strong>Banke:</strong> ERSTE I STEIERMERKISCHE BANK
 
-<strong>OBAVEZAN POZIV NA BROJ:</strong> HR 64 7323-17458
+<strong>OBAVEZAN POZIV NA BROJ:</strong> HR64 7323-17458-663120
 
 <strong>Opis uplate:</strong> GAM-DONACIJA CROBOTICS

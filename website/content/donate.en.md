@@ -17,7 +17,7 @@ The best way to donate is through our IBAN.
 
 <strong>Banks:</strong> ERSTE I STEIERMERKISCHE BANK
 
-<strong>MANDATORY REFERENCE NUMBER:</strong> HR 64 7323-17458
+<strong>MANDATORY REFERENCE NUMBER:</strong> HR64 7323-17458-663120
 
 <strong>Payment description:</strong> GAM-DONACIJA CROBOTICS
 
