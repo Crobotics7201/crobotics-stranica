@@ -28,6 +28,6 @@ Zahvaljujući ovakvoj podršci, a i svim ostalima koje smo u proteklim godinama 
 
 Hvala vam što vjerujete u nas i što nam pomažete da ostvarimo svoje snove! 
 
-![Ministarstvo](/images/ministarstvo_logo.jpg)
+![Ministarstvo](/images/ministarstvo_logo.png)
 ![Primorsko_goranska](/images/primorsko_goranska_logo.png)
 ![Riteh](/images/riteh_logo.png)
