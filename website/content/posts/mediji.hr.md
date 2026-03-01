@@ -3,7 +3,7 @@ title: "Robotičari zvijezde medija"
 date: 2026-02-24T12:10:36+08:00
 draft: false
 language: hr
-featured_image: ../assets/images/pages/sastanak.jpg
+featured_image: ../assets/images/pages/snimanje_hrt.jpg
 summary: Naš marljiv i uspješan tim ponovno je zasjao pod svijetlima televizije. 
 
 author: Crobotics
@@ -23,3 +23,7 @@ Također ovog tjedna naši članovi Clara i Nikola sudjelovali su u emisiji Radi
 Naš Nikola Vlašić objasnio je nešto više o tome kako radi robot, kako izgleda dobiveni zadatak te koliko vremena imamo za pripremu za natjecanje. Clara Štimac, naša pr voditeljica zadužena za odnose s javnošću, objasnila je kako izgleda prikupljanje donacija, koliki je budžet za odlazak na prestižno natjecanje u SAD te za što nam je sve potreban novac i kako do njega doći. 
 
 ![Tiktok](/images/studio_hrt.jpg)
+
+Hvala Radio Rijeka na vašem gostoprimstvu i prilici za sudjelovanje u vašoj emisiji Perspektiva. Također velike zahvale i Hrvatskoj radioteleviziji na vašem dolasku u našu skromnu 401 učionicu te prilici da pokažemo Hrvatskoj što naš Crrobotics tim sve može. Naravno hvala i svim vjernim donatorima, posebice Primorsko-goranskoj županiji i Tehničkom fakultetu u Rijeci, te svima vama koji nas pratite i pomažete nam u našoj priči i putovanju od malene učionice 401 pa sve do velike Amerike. 
+
+Vaš Crobotics tim! 
