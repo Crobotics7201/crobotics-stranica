@@ -1,6 +1,6 @@
 ---
-title: "Chicago 2026.-3.dan"
-date: 2026-03-31T12:10:36+08:00
+title: "Chicago 2026. 3.dan"
+date: 2026-04-01T12:10:36+08:00
 draft: false
 language: hr
 featured_image: ../assets/images/pages/chicago_zalazak.jpeg
@@ -29,11 +29,11 @@ Dolazak robota predstavljao je izuzetno važan trenutak za cijeli tim. Sav preth
 
 Nakon intenzivnog i neizvjesnog dana, uputili smo se metroom Chicago Blue Line prema centru grada. Ondje smo imali priliku kušati poznati lokalni specijalitet, Chicago-style pizzu, koja nas je oduševila i savršeno poslužila kao mali predah nakon zahtjevnog dana. 
 
-![Deep dish](/images/deep_dish.jpg)
+![Deep dish](/images/deep_dish.jpeg)
 
 Nakon večere, prošetali smo gradom i doživjeli njegovu večernju atmosferu. Osvijetljeni neboderi, užurbane ulice i jedinstvena energija grada ostavili su snažan dojam na cijeli tim, pružajući nam trenutak opuštanja koji je upotpunio doživljaj naše večeri. 
 
-![Chicago po noci](/images/chicago_night.jpg)
+![Chicago po noci](/images/chicago_night.jpeg)
 
 Vratili smo metroom do hotela u kojem smo se odmorili i pripremili za nove izazove koje nas čekaju. 
 
