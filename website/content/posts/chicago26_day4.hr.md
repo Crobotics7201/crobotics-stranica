@@ -3,8 +3,8 @@ title: "Chicago 2026. 4.dan"
 date: 2026-04-02T12:10:36+08:00
 draft: false
 language: hr
-featured_image: ../assets/images/pages/chicago_zalazak.jpeg
-summary: Srijeda je za naš tim započela u Taft High Schoolu, koja je imala važnu ulogu u našim pripremama za natjecanje.
+featured_image: ../assets/images/pages/1dan_natejcanje.jpeg
+summary: Prvi dan natjecanja protekao je u znaku sastavljanja robota, prilagodbe na natjecateljsko okruženje i rješavanja tehničkih problema.
 author: Crobotics
 authorimage: ../assets/images/global/crobotics_logo.png
 ---
