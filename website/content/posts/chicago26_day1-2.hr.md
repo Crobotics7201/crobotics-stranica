@@ -14,11 +14,11 @@ authorimage: ../assets/images/global/crobotics_logo.png
 
 Nakon dugih i napornih priprema naš tim se i ove godine zaputio na FIRST Robotics Competition u Chicagu. 
 
-Na put smo krenuli već u ponedjeljak, 23. ožujka u ranim jutarnjim satima. Nakon kratke noćne vožnje stigli smo u Veneciju u Zračnu luku Marko Polo. Poslije sigurnosne provjere i kratkog čekanja ukrcali smo se i na prvi let toga dana i to za europsku metropolu, London. Na londonski aerodrom Heathrow, s puno uzbuđenja, sletili smo nakon nešto više od 2 sata leta koji su mnogi i prespavali. Na Heathrowu smo prošli sigurnosnu provjeru, pregledali prtljagu te prošetali terminalom i ubrzo nakon već smo bili na letu za Ameriku. Let je bio dug i naporan,  no naše uzbuđenje i sreća nadvladali su svaki osjećaj umora, gladi i iscrpljenosti. U vjetroviti Chicago stigli smo u 16 sati po njihovom lokalnom vremenu.  
+Na put smo krenuli već u ponedjeljak, 23. ožujka u ranim jutarnjim satima. Nakon kratke noćne vožnje stigli smo u Veneciju u Zračnu luku Marko Polo. Poslije sigurnosne provjere i kratkog čekanja ukrcali smo se na prvi let toga dana za europsku metropolu, London. Na londonski aerodrom Heathrow, s puno uzbuđenja, sletili smo nakon nešto više od 2 sata leta koji su mnogi i prespavali. Na Heathrowu smo prošli sigurnosnu provjeru, pregledali prtljagu te prošetali terminalom i ubrzo smo bili na letu za Ameriku. Let je bio dug i naporan,  no naše uzbuđenje i sreća nadvladali su svaki osjećaj umora, gladi i iscrpljenosti. U vjetroviti Chicago stigli smo u 16 sati po njihovom lokalnom vremenu.  
 
 ![Aerodrom](/images/aerodrom_chicago.jpeg)
 
-Bili smo umorni nakon dugog puta, ali i gladni s obzirom da nam je jedini izvor proteina pružala hrana iz ekonomske klase aviona. Ubrzo nakon dolaska smjestili smo se u hotel te se malo odmorili i raspakirali već podosta tešku prtljagu. Nakon brzinskog  osvježenja, krenuli smo u kratku šetnju gradom te smo obavili i prvi šoping i pojeli brzinsku večeru. U ranim večernjim satima umor je prevladao te smo se vratili u hotel i spremili za spavanje kako bi bili svježi i odmorni za naporne dane iz nas. 
+Bili smo umorni nakon dugog puta, ali i gladni s obzirom da nam je jedini izvor proteina pružala hrana iz ekonomske klase aviona. Ubrzo nakon dolaska smjestili smo se u hotel te se malo odmorili i raspakirali već podosta tešku prtljagu. Nakon brzinskog  osvježenja, krenuli smo u kratku šetnju gradom te smo obavili i prvi šoping i pojeli brzinsku večeru. U ranim večernjim satima umor je prevladao te smo se vratili u hotel i spremili za spavanje kako bi bili svježi i odmorni za naporne dane ispred nas. 
 
 # 2. dan
 
