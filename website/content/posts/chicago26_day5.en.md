@@ -23,7 +23,7 @@ In the morning, we headed to the arena where the second day of the competition c
 
 As we entered the first matches, the robot showed stable performance and reliability, but we soon realized that the results did not reflect its performance. Other teams were able to score significantly more points in a shorter period of time, which prompted us to analyze the situation. That day, we used the opportunity to better understand the dynamics of the game and consider possible adjustments for the rest of the competition. 
 
-<video width="640" height="120" controls>
+<video width="640" height="360" controls>
   <source src="/videos/robot_match.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
