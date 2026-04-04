@@ -9,7 +9,7 @@ author: Crobotics
 authorimage: ../assets/images/global/crobotics_logo.png
 ---
 
-Second Day of Competition 
+# Second Day of Competition 
 
  
 
