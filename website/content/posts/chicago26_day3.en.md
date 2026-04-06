@@ -1,5 +1,5 @@
 ---
-title: "Chicago 2026. Day 3"
+title: "Chicago 2026 – Day 3"
 date: 2026-04-01T12:10:36+08:00
 draft: false
 language: en

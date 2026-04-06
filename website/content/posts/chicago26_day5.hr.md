@@ -1,5 +1,5 @@
 ---
-title: "Chicago 2026. 5.dan"
+title: "Chicago 2026.  5.dan"
 date: 2026-04-02T12:40:36+08:00
 draft: false
 language: hr

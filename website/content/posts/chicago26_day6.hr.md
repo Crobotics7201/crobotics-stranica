@@ -45,27 +45,19 @@ Naravno, ovaj uspjeh ne bi bio moguć bez podrške koju nam svakodnevno iskazuje
 
 A osmorku, koja ulazi u povijest s ovim uspjehom, čine: 
 
-   **Paolo Medvedić**
-
-   **Nikola Vlašić** 
-
-   **Clara Štimac**
-
-   **Fran Filip Frančišković** 
-
-   **Yaroslava Okhrimenko** 
-
-   **Adriano Jardas**
-
-   **Lovro Dragičević** 
-
-   **Mateo Manestar**
+**Paolo Medvedić**
+**Nikola Vlašić** 
+**Clara Štimac**
+**Fran Filip Frančišković** 
+**Yaroslava Okhrimenko** 
+**Adriano Jardas**
+**Lovro Dragičević** 
+**Mateo Manestar**
 
 Te s njima u pratnji i profesori: 
 
-   **Patricija Nikolaus**
-
-   **Goran Boneta** 
+**Patricija Nikolaus**
+**Goran Boneta** 
 
 
 ![Ekipa](/images/ekipa_kraj.jpeg)
