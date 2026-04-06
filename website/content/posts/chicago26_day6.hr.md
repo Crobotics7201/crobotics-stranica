@@ -46,7 +46,7 @@ Naravno, ovaj uspjeh ne bi bio moguć bez podrške koju nam svakodnevno iskazuje
 A osmorku, koja ulazi u povijest s ovim uspjehom, čine: 
 
 
-**Paolo Medvedić**  
+**Paulo Medvedić**  
 **Nikola Vlašić**  
 **Clara Štimac**  
 **Fran Filip Frančišković**  

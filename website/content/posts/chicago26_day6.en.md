@@ -51,7 +51,7 @@ Of course, this success would not have been possible without the support we rece
 
 The eight members who made history with this achievement are:  
 
-**Paolo Medvedić**  
+**Paulo Medvedić**  
 **Nikola Vlašić**  
 **Clara Štimac**  
 **Fran Filip Frančišković**  
