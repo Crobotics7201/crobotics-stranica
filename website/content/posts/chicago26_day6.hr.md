@@ -27,7 +27,7 @@ U playoffsima smo bili odabrani od strane drugog najboljeg tima. Naš tim bio je
 
 Tada smo zaključili zašto je zapravo robot i smrdio dan prije. Plastika na razvodnoj ploči bila je gotovo u potpunosti otopljena. Tada smo u samo nekoliko minuta koliko nam je još preostalo shvatili da trebamo zamijeniti cijelu razvodnu ploču, sve žice spojiti nazad na novu ploču te smo u igru ušli tek nekoliko sekundi prije početka. Posao koji inače traje 2 do 3 sata naš tim je odradio u samo 15 minuta, unatoč ekstremnom stresu i panici, i to bez ikakvih grešaka u spajanju. 
 
-<iframe width="640" height="376" src="https://www.youtube.com/embed/Zg7SU9LLNAo?si=NFNPmiXCwKLG-LQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="367" src="https://www.youtube.com/embed/Zg7SU9LLNAo?si=NFNPmiXCwKLG-LQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Mečevi su se odvijali u pauzama od svega nekoliko minuta. Tijekom tih kratkih pauza naš tim je pokazao iznimnu snalažljivost i predanost jer je naš robot gotovo stalno bio u procesu popravaka. Od šivanja bumpera do složenijih zahvata na samoj konstrukciji, svaki član tima dao je svoj doprinos kako bi robot ostao funkcionalan. 
 
@@ -44,31 +44,29 @@ Nakon slavlja i beskrajne sreće, vratili smo se u Taft High School, gdje smo ra
 Naravno, ovaj uspjeh ne bi bio moguć bez podrške koju nam svakodnevno iskazujete svi vi koji nas pratite, ali naravno i naši donatori i partneri koji su uložili puno truda i novaca kako bi nam omogućili ovo nezaboravno iskustvo. 
 
 A osmorku, koja ulazi u povijest s ovim uspjehom, čine: 
-<p style="text-align:center">
 
-**Paolo Medvedić**
+**-Paolo Medvedić**
 
-**Nikola Vlašić** 
+**-Nikola Vlašić** 
 
-**Clara Štimac**
+**-Clara Štimac**
 
-**Fran Filip Frančišković** 
+**-Fran Filip Frančišković** 
 
-**Yaroslava Okhrimenko** 
+**-Yaroslava Okhrimenko** 
 
-**Adriano Jardas**
+**-Adriano Jardas**
 
-**Lovro Dragičević** 
+**-Lovro Dragičević** 
 
-**Mateo Manestar**
-</p>
+**-Mateo Manestar**
+
 Te s njima u pratnji i profesori: 
-<p style="text-align:center">
 
-**Patricija Nikolaus**
+**-Patricija Nikolaus**
 
-**Goran Boneta** 
-</p>
+**-Goran Boneta** 
+
 
 ![Ekipa](/images/ekipa_kraj.jpeg)
 
